@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9B7E9F&width=435&lines=Hello%2C+it's+Maira;ML+Engineer+%26+NLP+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9B7E9F&width=550&lines=Hello%2C+I'm+Maira+Haider;Software+Engineering+Undergrad;AI%2FML+Engineer+%7C+NLP+%26+Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,14 +10,14 @@
 
 <div align="center">
 
-I'm a **Software Engineering student at UMT** diving deep into **Natural Language Processing** and modern AI. Interested in understanding how language models work and what AGI could mean.
+**Software Engineering Undergrad** | **AI/ML Engineer** | **NLP & Python** | Building AI-Powered Applications
 
-• Currently building AI systems that matter
+**3.70 CGPA** • **Dean's Award** • Passionate about NLP, language models, and AGI research
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-9B7E9F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-haiderr/)
+[![Email](https://img.shields.io/badge/Email-9B7E9F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.mairahaider@gmail.com)
 
 </div>
 
@@ -47,21 +47,6 @@ I'm a **Software Engineering student at UMT** diving deep into **Natural Languag
 
 ---
 
-## Currently Studying
-
-[![Learning](https://skillicons.dev/icons?i=aws,gcp,kubernetes)](https://skillicons.dev)
-
----
-
-## Currently
-
-- 📚 Finishing final semester at UMT
-- 🔬 Exploring NLP research and language model interpretability
-- 🎓 Planning postgraduate studies abroad
-- 💭 Thinking about what AGI means and how to build toward it responsibly
-
----
-
 ## Interests
 
 Research in NLP and transformers · AI alignment · Deep technical discussions · Meaningful collaborations · Gaming & music when I need to reset
@@ -70,7 +55,7 @@ Research in NLP and transformers · AI alignment · Deep technical discussions �
 
 <div align="center">
 
-📧 **[Email](mailto:your.email@gmail.com)** • 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)** • 🎮 **Gamer & Music Lover**
+📧 **[Email](mailto:connect.mairahaider@gmail.com)** • 💼 **[LinkedIn](https://www.linkedin.com/in/maira-haiderr/)** • 🎮 **Gamer & Music Lover**
 
 </div>
 
