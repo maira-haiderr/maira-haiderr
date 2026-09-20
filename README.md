@@ -37,8 +37,8 @@
 
 <div>
 
+[![Email](https://img.shields.io/badge/Email-9B7E9F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.mairahaider@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B7E9F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maira-haiderr)
-[![Email](https://img.shields.io/badge/Email-9B7E9F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maira@example.com)
 
 </div>
 
