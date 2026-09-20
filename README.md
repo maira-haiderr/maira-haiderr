@@ -13,7 +13,7 @@
 
 AI/ML Engineer focused on NLP, Computer Vision, and building end-to-end intelligent systems.
 Currently pursuing research in NLP and ML engineering, with a long-term goal of publishing papers.
-Open to ML research collaborations and AI engineering roles.
+Open to ML research collaborations.
 
 ---
 
