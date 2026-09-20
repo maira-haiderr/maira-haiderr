@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=4000&pause=800&color=9B7E9F&center=true&width=600&lines=Hello%2C++it's+Maira+Haider;AI%2FML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=4000&pause=800&color=9B7E9F&center=true&width=600&lines=Hello%2C+it's+Maira+Haider;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,25 +11,48 @@
 
 ### About Me
 
-- **Focus Areas:** Artificial Intelligence, Machine Learning, Natural Language Processing (NLP) & Computer Vision.
-- **Passion:** Building intelligent, end-to-end AI applications and software systems.
-- **Open to:** ML research, and AI project collaborations.
+AI/ML Engineer focused on NLP, Computer Vision, and building end-to-end intelligent systems.
+Currently pursuing research in NLP and ML engineering, with a long-term goal of publishing papers and pursuing a Master's abroad.
+Open to ML research collaborations and AI engineering roles.
 
 ---
 
-### Tech Stack & Frameworks
+### Tech Stack
 
-#### Languages & Core
-[![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=6)](https://skillicons.dev)
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=8)](https://skillicons.dev)
 
-#### AI/ML
-[![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter&perline=6)](https://skillicons.dev)
+#### AI / ML / DL
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter&perline=8)](https://skillicons.dev)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 #### Backend, Web & Databases
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,mysql,&perline=6)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,mysql&perline=8)](https://skillicons.dev)
 
-#### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6)](https://skillicons.dev)
+#### Design & Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8)](https://skillicons.dev)
+
+---
+
+### GitHub Overview
+
+<div align="center">
+
+![Maira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maira-haiderr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B7E9F&icon_color=9B7E9F)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maira-haiderr&layout=compact&theme=tokyonight&hide_border=true&title_color=9B7E9F)
+
+</div>
 
 ---
 
