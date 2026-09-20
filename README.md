@@ -12,8 +12,6 @@
 
 **Software Engineering Undergrad** | **AI/ML Engineer** | **NLP & Python** | Building AI-Powered Applications
 
-**3.70 CGPA** • **Dean's Award** • Passionate about NLP, language models, and AGI research
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-haiderr/)
@@ -39,17 +37,12 @@
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 **Tools & DevOps**
 
-[![Tools](https://skillicons.dev/icons?i=git,docker,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
----
-
-## Interests
-
-Research in NLP and transformers · AI alignment · Deep technical discussions · Meaningful collaborations · Gaming & music when I need to reset
 
 ---
 
