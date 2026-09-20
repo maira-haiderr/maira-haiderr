@@ -1,1 +1,79 @@
-\# Hi there, I'm Maira Haider 👋 <p align="left"> <strong>Software Engineering Undergrad | AI/ML Engineer | NLP &amp; Python | Building AI-Powered Applications</strong> </p> --- ### 💫 About Me - 🎓 \*\*Education:\*\* Software Engineering Undergraduate based in Lahore, Pakistan. - 🤖 \*\*Focus Areas:\*\* Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV). - 💡 \*\*Passion:\*\* Designing and deploying intelligent, end-to-end web applications. - 🔭 \*\*Featured Work:\*\* Building an \*\*Advanced Plagiarism Detector\*\* using modern NLP techniques and interactive UI elements. - 📫 \*\*How to reach me:\*\* Open for collaborations, AI/ML projects, and software engineering opportunities! --- ### 🛠️ Tech Stack &amp; Tools #### 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white) #### 🧠 AI, Machine Learning &amp; NLP ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white) #### 🌐 Web Development &amp; Frameworks ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white) --- ### 🚀 Featured Project | Project | Description | Tech Stack | | :--- | :--- | :--- | | 🔍 \*\*[Advanced Plagiarism Detector](https://github.com/maira-haiderr/Advanced-Plagiarism-Detector)\*\* | Modern NLP-based plagiarism detection system featuring a 3D interface. | Python, NLP, HTML/CSS/JS | --- ### 📈 GitHub Stats <p align="center">   </p> --- ### 📬 Connect With Me <p align="left"> <a href="https://www.linkedin.com/in/maira-haiderr/">  </a> <a href="mailto:your.email@example.com">  </a> <a href="https://yourportfolio.com">  </a> </p>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=header)](https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=header)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9B7E9F&width=435&lines=Hello%2C+it's+Maira;ML+Engineer+%26+NLP+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+I'm a **Software Engineering student at UMT** diving deep into **Natural Language Processing** and modern AI. Interested in understanding how language models work and what AGI could mean.
+
+**3.70 CGPA** • **Dean's Award** • Currently building AI systems that matter
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-9B7E9F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+## Main Skills
+
+**Languages & Fundamentals**
+
+[![Languages](https://skillicons.dev/icons?i=python,java,js,cpp,html,css)](https://skillicons.dev)
+
+**ML & AI Frameworks**
+
+[![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+
+**Tools & DevOps**
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,github,vscode)](https://skillicons.dev)
+
+---
+
+## Currently Studying
+
+[![Learning](https://skillicons.dev/icons?i=aws,gcp,kubernetes)](https://skillicons.dev)
+
+---
+
+## Currently
+
+- 📚 Finishing final semester at UMT
+- 🔬 Exploring NLP research and language model interpretability
+- 🎓 Planning postgraduate studies abroad
+- 💭 Thinking about what AGI means and how to build toward it responsibly
+
+---
+
+## Interests
+
+Research in NLP and transformers · AI alignment · Deep technical discussions · Meaningful collaborations · Gaming & music when I need to reset
+
+---
+
+<div align="center">
+
+📧 **[Email](mailto:your.email@gmail.com)** • 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)** • 🎮 **Gamer & Music Lover**
+
+</div>
+
+---
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=footer)
