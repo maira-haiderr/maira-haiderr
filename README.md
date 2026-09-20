@@ -12,7 +12,7 @@
 
 I'm a **Software Engineering student at UMT** diving deep into **Natural Language Processing** and modern AI. Interested in understanding how language models work and what AGI could mean.
 
-**3.70 CGPA** • **Dean's Award** • Currently building AI systems that matter
+• Currently building AI systems that matter
 
 <br>
 
