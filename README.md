@@ -1,9 +1,9 @@
 <!-- Header -->
-<div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=4000&pause=800&color=9B7E9F&center=false&width=400&lines=Hello%2C++it's+Maira+Haider;AI%2FML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=4000&pause=800&color=9B7E9F&center=true&width=600&lines=Hello%2C++it's+Maira+Haider;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 </div>
 
