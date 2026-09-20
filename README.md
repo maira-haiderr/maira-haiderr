@@ -22,7 +22,7 @@
 #### Languages & Core
 [![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=6)](https://skillicons.dev)
 
-#### AI, ML & Data Science
+#### AI/ML
 [![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter&perline=6)](https://skillicons.dev)
 
 #### Backend, Web & Databases
