@@ -3,49 +3,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B7E9F&height=120&section=header" width="100%"/>
 
-# Hi there, I'm Maira Haider 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&duration=4000&pause=500&color=9B7E9F&width=550&lines=Software+Engineering+Undergrad;AI%2FML+Engineer;Building+AI-Powered+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=4000&pause=800&color=9B7E9F&center=true&width=600&lines=Hi%2C+I'm+Maira+Haider+%F0%9F%91%8B;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 📌 About Me
+### About Me
 
-- 🎓 **Education:** Software Engineering Undergraduate based in Lahore, Pakistan.
-- 🤖 **Focus Areas:** Artificial Intelligence, Machine Learning, Natural Language Processing (NLP) & Computer Vision.
-- 💡 **Passion:** Building intelligent, end-to-end AI applications and software systems.
-- 🔭 **Current Project:** Developing an **[Advanced Plagiarism Detector](https://github.com/maira-haiderr/Advanced-Plagiarism-Detector)** featuring modern NLP algorithms and a 3D interface.
-- 💼 **Open to:** ML research, software engineering roles, and AI project collaborations.
+- **Focus Areas:** Artificial Intelligence, Machine Learning, Natural Language Processing (NLP) & Computer Vision.
+- **Passion:** Building intelligent, end-to-end AI applications and software systems.
+- **Open to:** ML research, software engineering roles, and AI project collaborations.
 
 ---
 
-### 🛠️ Tech Stack & Frameworks
+### Tech Stack & Frameworks
 
-#### **Languages & Core**
+#### Languages & Core
 [![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=6)](https://skillicons.dev)
 
-#### **AI, ML & Data Science**
+#### AI, ML & Data Science
 [![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter&perline=6)](https://skillicons.dev)
 
-#### **Backend, Web & Databases**
+#### Backend, Web & Databases
 [![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,mysql,mongodb&perline=6)](https://skillicons.dev)
 
-#### **DevOps & Tools**
+#### DevOps & Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6)](https://skillicons.dev)
 
 ---
 
-### 🚀 Featured Repository
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🔍 **[Advanced Plagiarism Detector](https://github.com/maira-haiderr/Advanced-Plagiarism-Detector)** | Modern NLP-based plagiarism detection system built with an interactive 3D interface. | Python, NLP, HTML/CSS/JS |
-
----
-
-### 📈 GitHub Overview
+### GitHub Overview
 
 <div align="center">
 
@@ -57,7 +45,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
 
