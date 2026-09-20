@@ -22,21 +22,9 @@ Open to ML research collaborations and AI engineering roles.
 #### Languages
 [![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=8)](https://skillicons.dev)
 
-#### AI / ML / DL
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter&perline=8)](https://skillicons.dev)
+#### AI / ML, Backend & Databases
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter,&perline=8)](https://skillicons.dev)
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-#### Backend, Web & Databases
 [![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,mysql&perline=8)](https://skillicons.dev)
 
 #### Design & Tools
