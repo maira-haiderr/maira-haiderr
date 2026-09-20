@@ -12,7 +12,7 @@
 ### About Me
 
 AI/ML Engineer focused on NLP, Computer Vision, and building end-to-end intelligent systems.
-Currently pursuing research in NLP and ML engineering, with a long-term goal of publishing papers and pursuing a Master's abroad.
+Currently pursuing research in NLP and ML engineering, with a long-term goal of publishing papers.
 Open to ML research collaborations and AI engineering roles.
 
 ---
@@ -41,18 +41,6 @@ Open to ML research collaborations and AI engineering roles.
 
 #### Design & Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8)](https://skillicons.dev)
-
----
-
-### GitHub Overview
-
-<div align="center">
-
-![Maira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maira-haiderr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B7E9F&icon_color=9B7E9F)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maira-haiderr&layout=compact&theme=tokyonight&hide_border=true&title_color=9B7E9F)
-
-</div>
 
 ---
 
